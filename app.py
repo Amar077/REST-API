@@ -37,3 +37,4 @@ def create_app():
     api.register_blueprint(UserBluePrint)
 
     return app
+
